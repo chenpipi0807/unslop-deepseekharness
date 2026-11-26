@@ -69,11 +69,11 @@
       "versions": [
         {
           "version": "0.1.0",
-          "publishTimestamp": 1795669418,
+          "publishTimestamp": 1795669870,
           "source": {
             "type": "git",
             "url": "https://github.com/chenpipi0807/unslop-deepseekharness",
-            "commit": "a9ab346d192f1965513c612412efbb6ac4ed3ace"
+            "commit": "a5c7c0f868478fd5166d60717e99b095950142b9"
           },
           "engines": {
             "dsh": ">=0.2.2-rc.0 <0.3.0"
