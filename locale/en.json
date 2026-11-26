@@ -1,0 +1,7 @@
+{
+  "meta": {
+    "title": "Unslop",
+    "description": "Adds the unslop skill: it audits a screen that looks AI-generated, sets a design direction from the product itself, then fixes the screen in nine passes — spacing, color, icons, copy, type, layout, details, visuals and motion. Ask in your own words (\"unslop this page\", \"this dashboard looks like AI made it\") or load the unslop skill; it renders before/after screenshots with the Chrome or Edge already installed, so nothing else needs installing. It edits your workspace files only, works offline, and never calls a paid image service without your explicit approval. Turned off, the skill disappears and nothing else changes. The story video needs Playwright and is not included.",
+    "detail": "docs/DETAIL.md"
+  }
+}

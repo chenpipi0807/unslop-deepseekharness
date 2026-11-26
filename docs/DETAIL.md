@@ -1,0 +1,1 @@
+![Left: a purple gradient dashboard with emoji labels, glowing pills and uneven spacing. Right: the same dashboard after unslop, with quiet graphite surfaces, one ember accent, a paper invoice slip and a single revenue line.](preview.svg)

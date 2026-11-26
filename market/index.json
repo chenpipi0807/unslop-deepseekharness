@@ -1,0 +1,85 @@
+{
+  "format": 1,
+  "title": {
+    "en": "Unslop",
+    "zh": "Unslop 去 AI 味"
+  },
+  "description": {
+    "en": "A design review skill for screens that look AI-generated, and the pages to try it on.",
+    "zh": "给「一看就是 AI 写的」界面做设计返工的技能，附带两个专门用来练手的反面示例页。"
+  },
+  "metadata": {
+    "categories": {
+      "design": {
+        "title": {
+          "en": "Design",
+          "zh": "设计"
+        }
+      }
+    },
+    "labels": {
+      "skill": {
+        "title": {
+          "en": "Skill",
+          "zh": "技能"
+        }
+      },
+      "offline": {
+        "title": {
+          "en": "Works offline",
+          "zh": "离线可用"
+        }
+      }
+    }
+  },
+  "plugins": [
+    {
+      "name": "dsh-unslop",
+      "title": {
+        "en": "Unslop",
+        "zh": "Unslop 去 AI 味"
+      },
+      "description": {
+        "en": "Audits a screen that looks AI-generated, sets a design direction from the product itself, then fixes it in nine passes: spacing, color, icons, copy, type, layout, details, visuals, motion. Screenshots and measuring use the Chrome or Edge already installed, so there is nothing else to install. Works offline, edits only workspace files, and asks before any paid image generation.",
+        "zh": "审计「像 AI 生成」的界面，从产品本身推出设计方向，再按九道 pass 逐层修：间距、颜色、图标、文案、字体、布局、细节、视觉、动效。截图与测量都用机器上已有的 Chrome/Edge，不需要额外安装；离线可用，只改工作区文件，付费出图前一定先问。"
+      },
+      "icon": "./icon.svg",
+      "author": "chenpipi0807",
+      "homepage": "https://github.com/chenpipi0807/unslop-deepseekharness",
+      "repository": {
+        "url": "https://github.com/chenpipi0807/unslop-deepseekharness"
+      },
+      "metadata": {
+        "category": "design",
+        "keywords": [
+          "unslop",
+          "design",
+          "ui",
+          "skill",
+          "vibecoded",
+          "去AI味",
+          "界面设计",
+          "设计审查"
+        ],
+        "labels": [
+          "skill",
+          "offline"
+        ]
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "publishTimestamp": 1795669418,
+          "source": {
+            "type": "git",
+            "url": "https://github.com/chenpipi0807/unslop-deepseekharness",
+            "commit": "a9ab346d192f1965513c612412efbb6ac4ed3ace"
+          },
+          "engines": {
+            "dsh": ">=0.2.2-rc.0 <0.3.0"
+          }
+        }
+      ]
+    }
+  ]
+}

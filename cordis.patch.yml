@@ -1,0 +1,4 @@
+# unslop bundle: one Host row that registers the bundled `unslop` skill.
+- insert:
+    - id: unslop-skill
+      name: dsh-unslop
